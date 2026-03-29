@@ -17,8 +17,8 @@ The goal of the image classification model is to automatically detect and classi
 ## 20 Herbs Species
 
 ### 1. Niyog-niyugan
-![Niyog-niyugan](<img width="1287" height="853" alt="image" src="https://github.com/user-attachments/assets/d91ff341-9470-4499-a3f2-874652e35c30" />
-)
+![Niyog-niyugan] <img width="1287" height="853" alt="image" src="https://github.com/user-attachments/assets/d91ff341-9470-4499-a3f2-874652e35c30" />
+
 
 **Common Name:** Niyog-niyugan 
 **Scientific Name:** Combretum indicum 
