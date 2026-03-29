@@ -17,7 +17,7 @@ The goal of the image classification model is to automatically detect and classi
 ## 20 Herbs Species
 
 ### 1. Niyog-niyugan
-![Niyog-niyugan] <img width="1287" height="853" alt="image" src="https://github.com/user-attachments/assets/d91ff341-9470-4499-a3f2-874652e35c30" />
+<img width="1287" height="853" alt="image" src="https://github.com/user-attachments/assets/d91ff341-9470-4499-a3f2-874652e35c30" />
 
 
 **Common Name:** Niyog-niyugan 
@@ -29,8 +29,8 @@ Niyog-niyugan is a climbing shrub (vine) that can reach up to 8 meters in length
 ---
 
 ### 2. Yerba Buena
-![Yerba Buena](<img width="797" height="595" alt="image" src="https://github.com/user-attachments/assets/d1a71e48-038c-4b74-968f-316c40acd3fd" />
-)
+<img width="797" height="595" alt="image" src="https://github.com/user-attachments/assets/d1a71e48-038c-4b74-968f-316c40acd3fd" />
+
 
 **Common Name:** Yerba Buena 
 **Scientific Name:** Clinopodium douglasii 
@@ -41,8 +41,7 @@ Yerba Buena has small, elliptical, serrated leaves with a distinct "minty" scent
 ---
 
 ### 3. Kataka-taka
-![Kataka-taka](<img width="1270" height="882" alt="image" src="https://github.com/user-attachments/assets/d320afd7-49ad-49ab-bccb-0256197f29d4" />
-)
+<img width="1270" height="882" alt="image" src="https://github.com/user-attachments/assets/d320afd7-49ad-49ab-bccb-0256197f29d4" />
 
 **Common Name:** Kataka-taka  
 **Scientific Name:** Bryophyllum pinnatum
@@ -53,8 +52,8 @@ An upright succulent with thick, fleshy leaves. It is famous for growing tiny pl
 ---
 
 ### 4. Mikania Micrantha
-![Mikania Micrantha](<img width="734" height="479" alt="image" src="https://github.com/user-attachments/assets/480d5676-cf1f-459e-9f35-9d182cd1965f" />
-)
+<img width="734" height="479" alt="image" src="https://github.com/user-attachments/assets/480d5676-cf1f-459e-9f35-9d182cd1965f" />
+
 
 **Common Name:** Hagonoy
 **Scientific Name:** Mikania micrantha
@@ -66,8 +65,8 @@ A fast-growing climbing vine with heart-shaped leaves and small white flowers. I
 ---
 
 ### 5. Hyptis Suaveolens
-![Hyptis Suaveolens](<img width="290" height="435" alt="image" src="https://github.com/user-attachments/assets/0131ec5d-9406-44dd-bd08-9b33041a8458" />
-)
+<img width="290" height="435" alt="image" src="https://github.com/user-attachments/assets/0131ec5d-9406-44dd-bd08-9b33041a8458" />
+
 
 **Common Name:** Suob-kabayo
 **Scientific Name:** Hyptis suaveolens
@@ -78,8 +77,8 @@ A tall, aromatic herb with square stems and hairy, serrated leaves. It has small
 ---
 
 ### 6. Pansit-pansitan
-![Pansit-pansitan](<img width="999" height="663" alt="image" src="https://github.com/user-attachments/assets/48e9d9c0-ee1f-47c3-9917-ff39a33d6cef" />
-)
+<img width="999" height="663" alt="image" src="https://github.com/user-attachments/assets/48e9d9c0-ee1f-47c3-9917-ff39a33d6cef" />
+
 **Common Name:** Ulasimang-bato
 **Scientific Name:** Peperomia pellucida
 
@@ -90,8 +89,8 @@ A small, succulent herb with shiny, heart-shaped translucent leaves. Its stems a
 ---
 
 ### 7. Sampa-sampalukan
-![Sampa-sampalukan](<img width="819" height="612" alt="image" src="https://github.com/user-attachments/assets/189a47c4-7aa9-46c9-beb3-a8f65e505c82" />
-)
+<img width="819" height="612" alt="image" src="https://github.com/user-attachments/assets/189a47c4-7aa9-46c9-beb3-a8f65e505c82" />
+
 
 **Common Name:** Stonebreaker
 **Scientific Name:** Phyllanthus niruri
@@ -102,8 +101,8 @@ A small, upright weed with tiny leaves that look like miniature Tamarind (Sampal
 ---
 
 ### 8. Bay Laurel
-![Bay Laurel](<img width="378" height="515" alt="image" src="https://github.com/user-attachments/assets/60faaf90-f785-4300-b35e-cc858226ea9d" />
-)
+<img width="378" height="515" alt="image" src="https://github.com/user-attachments/assets/60faaf90-f785-4300-b35e-cc858226ea9d" />
+
 
 **Common Name:** Bay Leaf
 **Scientific Name:** Laurus nobilis
@@ -115,8 +114,8 @@ A slow-growing evergreen shrub with stiff, dark green, pointed leaves. The leave
 ---
 
 ### 9. Hilbas
-![Hilbas](<img width="751" height="591" alt="image" src="https://github.com/user-attachments/assets/e7df3138-0be2-4841-8be7-37d76c7c054e" />
-)
+<img width="751" height="591" alt="image" src="https://github.com/user-attachments/assets/e7df3138-0be2-4841-8be7-37d76c7c054e" />
+
 
 **Common Name:** Damong Maria
 **Scientific Name:** Artemisia vulgaris
@@ -127,8 +126,8 @@ An upright, aromatic herb with fuzzy, deeply lobed leaves that are green on top 
 ---
 
 ### 10. Mayana
-![Mayana](<img width="439" height="451" alt="image" src="https://github.com/user-attachments/assets/7e5865fd-fc88-4d94-981b-c8e01cbabcd6" />
-)
+<img width="439" height="451" alt="image" src="https://github.com/user-attachments/assets/7e5865fd-fc88-4d94-981b-c8e01cbabcd6" />
+
 
 **Common Name:** Lampuyana
 **Scientific Name:** Coleus scutellarioides
@@ -140,8 +139,8 @@ A colorful, bushy herb with soft, square stems and vibrant leaves that are usual
 ---
 
 ### 11. Sambong
-![Sambong](<img width="1024" height="685" alt="image" src="https://github.com/user-attachments/assets/05f411c6-5c48-4965-9f07-d58648b1b42e" />
-)
+<img width="1024" height="685" alt="image" src="https://github.com/user-attachments/assets/05f411c6-5c48-4965-9f07-d58648b1b42e" />
+
 
 **Common Name:** Blumea Camphor
 **Scientific Name:** Blumea balsamifera
@@ -152,8 +151,8 @@ A tall, woody herb or shrub with soft, hairy leaves that have a very strong, min
 ---
 
 ### 12. Nut Grass
-![Nut Grass](<img width="934" height="698" alt="image" src="https://github.com/user-attachments/assets/c524b27e-affa-4ad9-940c-05553a7db51b" />
-)
+<img width="934" height="698" alt="image" src="https://github.com/user-attachments/assets/c524b27e-affa-4ad9-940c-05553a7db51b" />
+
 
 **Common Name:** Mutha
 **Scientific Name:** Cyperus rotundus
@@ -165,8 +164,8 @@ A persistent, grass-like weed with narrow, dark green leaves and a triangular st
 ---
 
 ### 13. Lemon Basil
-![Lemon Basil](<img width="739" height="556" alt="image" src="https://github.com/user-attachments/assets/f0880f27-d708-4171-9ce5-845cb220bad4" />
-)
+<img width="739" height="556" alt="image" src="https://github.com/user-attachments/assets/f0880f27-d708-4171-9ce5-845cb220bad4" />
+
 
 **Common Name:**  Lemon Basil
 **Scientific Name:** Ocimum × citriodorum
@@ -177,8 +176,8 @@ A small, fragrant herb with light green, pointed leaves and hairy stems. It is e
 ---
 
 ### 14. Lemon Grass
-![Lemon Grass](<img width="815" height="614" alt="image" src="https://github.com/user-attachments/assets/e7bfcdf5-1bcc-4333-b817-5fa41db03b2a" />
-)
+<img width="815" height="614" alt="image" src="https://github.com/user-attachments/assets/e7bfcdf5-1bcc-4333-b817-5fa41db03b2a" />
+
 
 **Common Name:** Tanglad
 **Scientific Name:** Cymbopogon citratus
@@ -189,8 +188,8 @@ A tall, tufted perennial grass with long, narrow, bluish-green leaves. It is fam
 ---
 
 ### 15. Garlic
-![Garlic](h<img width="406" height="550" alt="image" src="https://github.com/user-attachments/assets/1194cd57-55a9-48cc-a5a2-55f9be8648a3" />
-)
+<img width="406" height="550" alt="image" src="https://github.com/user-attachments/assets/1194cd57-55a9-48cc-a5a2-55f9be8648a3" />
+
 
 **Common Name:** Bawang  
 **Scientific Name:** Allium sativum
@@ -201,8 +200,8 @@ A low-growing bulbous herb with long, flat, grass-like leaves. It is famous for 
 ---
 
 ### 16. Lemon Balm
-![Lemon Balm](<img width="924" height="618" alt="image" src="https://github.com/user-attachments/assets/3352cbf4-00f6-4aba-8d68-30a82f2d746a" />
-)
+<img width="924" height="618" alt="image" src="https://github.com/user-attachments/assets/3352cbf4-00f6-4aba-8d68-30a82f2d746a" />
+
 
 **Common Name:** Melissa
 **Scientific Name:** Melissa officinalis 
@@ -214,8 +213,8 @@ A bushy herb with crinkly, heart-shaped leaves that have small, rounded teeth on
 ---
 
 ### 17. Star Anise
-![Star Anise](<img width="834" height="625" alt="image" src="https://github.com/user-attachments/assets/a9efc0a4-1f24-403e-bbf0-960fe972fed3" />
-)
+<img width="834" height="625" alt="image" src="https://github.com/user-attachments/assets/a9efc0a4-1f24-403e-bbf0-960fe972fed3" />
+
 
 **Common Name:** Star Anise
 **Scientific Name:** Illicium verum
@@ -226,8 +225,8 @@ A small to medium evergreen tree that produces distinctive, star-shaped woody fr
 ---
 
 ### 18. Yahong-yahong
-![Yahong-yahong](<img width="889" height="597" alt="image" src="https://github.com/user-attachments/assets/6e2c1fb0-533c-4c07-b184-4fc2a0b47891" />
-)
+<img width="889" height="597" alt="image" src="https://github.com/user-attachments/assets/6e2c1fb0-533c-4c07-b184-4fc2a0b47891" />
+
 
 **Common Name:** Gotu Kola
 **Scientific Name:** Centella asiatica
@@ -238,8 +237,8 @@ A low-creeping herb with small, fan-shaped or kidney-shaped leaves that look lik
 ---
 
 ### 19. Ginger
-![Ginger](<img width="946" height="950" alt="image" src="https://github.com/user-attachments/assets/03696b73-660f-4531-b814-3eb581c2ea33" />
-)
+<img width="946" height="950" alt="image" src="https://github.com/user-attachments/assets/03696b73-660f-4531-b814-3eb581c2ea33" />
+
 
 **Common Name:** Luya 
 **Scientific Name:** Zingiber officinale
@@ -250,8 +249,8 @@ A perennial herb that grows from a thick, knotted underground stem (rhizome). It
 ---
 
 ### 20. Sambang Getih
-![Sambang Getih](<img width="626" height="493" alt="image" src="https://github.com/user-attachments/assets/da6f8992-547f-432a-b0a8-47999f7f876b" />
-)
+<img width="626" height="493" alt="image" src="https://github.com/user-attachments/assets/da6f8992-547f-432a-b0a8-47999f7f876b" />
+
 
 **Common Name:** Red Flame Ivy
 **Scientific Name:** Hemigraphis alternata
