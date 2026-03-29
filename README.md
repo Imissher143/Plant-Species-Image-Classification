@@ -353,7 +353,8 @@ A low-growing, creeping perennial herb known for its striking foliage. The leave
 
 
 ### Test 7
-<img width="813" height="931" alt="image" src="https://github.com/user-attachments/assets/4df1108c-ae50-4d79-bc42-25c906d53993" />
+<img width="815" height="927" alt="image" src="https://github.com/user-attachments/assets/9691f85e-4437-4943-82fe-02e4a35a655a" />
+
 
 
 
