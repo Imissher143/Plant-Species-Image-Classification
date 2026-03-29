@@ -382,19 +382,19 @@ The number of images per class was another factor that affected the accuracy of 
 
 ## 2. Which plant species were most commonly misclassified and why?
 
-Plants that share similar shapes, colors, or patterns were most commonly misclassified. For example, Boston Fern (Bostoniensis) and Bird’s Nest Fern have similar leaf structures, which may confuse the model.
+Plants with similar shapes, colors, and/or patterns were most likely to be misclassified. For example, Nut Grass and Garlic have similar leaf structures, which may confuse the model.
 
 ---
 
 ## 3. How did changing the epochs, batch size, or learning rate affect the training results?
 
-Changing the training parameters affected how the model learned from the dataset. Increasing the number of epochs allowed the model to train longer and improve its accuracy. The batch size affected how many images were processed at once during training, which influenced the speed and stability of learning. The learning rate controlled how quickly the model updated its weights during training.
+Modifying the parameters of the training process impacted the manner in which the model learned from the provided data. Increasing the number of epochs allowed the model to train for a longer period, thereby improving its accuracy. The batch size impacted the number of images that the model processed simultaneously, thereby affecting the manner in which it learned. The learning rate impacted the speed at which the model updated its weights.
 
 ---
 
 ## 4. What challenges did you encounter during dataset collection and labeling?
 
-One challenge was finding enough clear and high-quality images for each plant species. Some images were blurry, contained multiple plants, or had watermarks. Another challenge was ensuring that the images were correctly labeled so the model could learn the correct classification for each plant species.
+The challenge was finding enough images that are clear and of good quality for each plant species. Some images were not clear, contained more than one plant, or had watermarks. Another challenge that the model faced was ensuring that the images were correctly labeled, such that the model could learn the correct classification for each plant species.
 
 ---
 
