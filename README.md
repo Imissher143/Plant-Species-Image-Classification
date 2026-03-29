@@ -1,7 +1,7 @@
 # Plant-Species-Image-Classification
 
 # DRIVE LINK
-https:
+https://drive.google.com/drive/folders/1qWRfwrAkRGwY1DyItX0mTxAXM5JxtdGY?usp=drive_link
 ## A. Project Overview
 
 ### Brief Description of the Project
