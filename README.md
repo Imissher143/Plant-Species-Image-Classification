@@ -294,26 +294,26 @@ A low-growing, creeping perennial herb known for its striking foliage. The leave
 # D. Model Evaluation
 
 ## Confusion Matrix
-![Confusion Matrix](<img width="471" height="894" alt="image" src="https://github.com/user-attachments/assets/47dfcaaa-5f30-4990-85f9-724488a74451" />
-)
+<img width="471" height="894" alt="image" src="https://github.com/user-attachments/assets/47dfcaaa-5f30-4990-85f9-724488a74451" />
 
-![Confusion Matrix](<img width="468" height="897" alt="image" src="https://github.com/user-attachments/assets/0d16beb8-76be-4c6d-abdd-2f2a9f17cc13" />
-)
 
-![Confusion Matrix](<img width="476" height="896" alt="image" src="https://github.com/user-attachments/assets/c5facfc0-f441-4616-9058-88a38a0d4144" />
-)
+<img width="468" height="897" alt="image" src="https://github.com/user-attachments/assets/0d16beb8-76be-4c6d-abdd-2f2a9f17cc13" />
+
+
+<img width="476" height="896" alt="image" src="https://github.com/user-attachments/assets/c5facfc0-f441-4616-9058-88a38a0d4144" />
+
 
 ---
 
 ## Accuracy per Class
-![Accuracy per Class](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/35d4ec76-9f4d-454d-894d-ef8dd0a6fd74" />
-)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/35d4ec76-9f4d-454d-894d-ef8dd0a6fd74" />
+
 
 ---
 
 ## Overall Model Accuracy
-![Overall Accuracy](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/214861f7-6c63-40ac-b543-632db7b3081e" />
-)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/214861f7-6c63-40ac-b543-632db7b3081e" />
+
 
 ---
 
